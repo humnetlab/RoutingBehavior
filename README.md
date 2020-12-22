@@ -1,7 +1,7 @@
 # Understanding Routing Behavior with LBS Data
 Source code for "Understanding vehicular routing behavior with location-based service data"
 
-Developed by Yanyan Xu (yanyanxu@sjtu.edu.cn) and Marta Gonzalez, Human Mobility and NNetworks Lab, UC Berkeley
+Developed by Yanyan Xu (yanyanxu@sjtu.edu.cn) and Marta Gonzalez, Human Mobility and Networks Lab, UC Berkeley
 
 
 This data analysis framework process the raw LBS data, extract the vehicule trips, and detect routinng behavior. For each active LBS use, we select her top OP pair with the largest number of trips for further routing behavior analysis. The simple rule based route dectection is illustrated as follows,
